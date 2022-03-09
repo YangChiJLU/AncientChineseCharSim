@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1fa38d3-4e6e-4aa4-9a4e-c062798ced60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="3124ed7b-8299-45d6-b716-ac24d1b1dcac" />
+  <component name="ProjectId" id="1vOTFwp687TfuSZ7VqVQ6yx9VY8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data的副本" />
+      <recent name="$PROJECT_DIR$/evaluation" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dictionary_simi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data/results" />
+      <recent name="$PROJECT_DIR$/evaluation" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data的副本" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.coverage_eva">
+    <configuration name="correlation_eva" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ancientCharacterSimi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/evaluation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation/correlation_eva.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coverage_eva" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ancientCharacterSimi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/evaluation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation/coverage_eva.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jia_c_mix_simi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ancientCharacterSimi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mix_simi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mix_simi/jia_c_mix_simi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jia_graph_simi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ancientCharacterSimi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph_simi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graph_simi/jia_graph_simi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jia_pic_simi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ancientCharacterSimi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pic_simi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pic_simi/jia_pic_simi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.coverage_eva" />
+        <item itemvalue="Python.correlation_eva" />
+        <item itemvalue="Python.jia_c_mix_simi" />
+        <item itemvalue="Python.jia_pic_simi" />
+        <item itemvalue="Python.jia_graph_simi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1fa38d3-4e6e-4aa4-9a4e-c062798ced60" name="Default Changelist" comment="" />
+      <created>1626432035943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626432035943</updated>
+      <workItem from="1626432046767" duration="60517000" />
+      <workItem from="1626756409583" duration="37923000" />
+      <workItem from="1628657721097" duration="66207000" />
+      <workItem from="1629626164441" duration="10886000" />
+      <workItem from="1630029769497" duration="18119000" />
+      <workItem from="1630932802772" duration="31388000" />
+      <workItem from="1632278952777" duration="4825000" />
+      <workItem from="1632544001004" duration="291000" />
+      <workItem from="1632805434294" duration="8445000" />
+      <workItem from="1633498902244" duration="4990000" />
+      <workItem from="1634184659233" duration="85696000" />
+      <workItem from="1634993987641" duration="1776000" />
+      <workItem from="1634996072777" duration="320000" />
+      <workItem from="1634996525932" duration="135390000" />
+      <workItem from="1636616015100" duration="1234000" />
+      <workItem from="1637216436623" duration="650000" />
+      <workItem from="1637475735898" duration="598000" />
+      <workItem from="1639213031335" duration="1300000" />
+      <workItem from="1646307783229" duration="10032000" />
+      <workItem from="1646620648043" duration="33598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="377" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1646632483061">
+      <screen x="30" y="23" width="1410" height="877" />
+    </state>
+    <state x="377" y="271" key="#com.intellij.fileTypes.FileTypeChooser/30.23.1410.877@30.23.1410.877" timestamp="1646632483061" />
+    <state x="483" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1646654378969">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state x="483" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/29.23.1411.877@29.23.1411.877" timestamp="1646654378969" />
+    <state x="484" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/30.23.1410.877@30.23.1410.877" timestamp="1646650751101" />
+    <state width="1368" height="164" key="GridCell.Tab.0.bottom" timestamp="1646720348067">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state width="1368" height="164" key="GridCell.Tab.0.bottom/29.23.1411.877@29.23.1411.877" timestamp="1646720348067" />
+    <state width="1368" height="193" key="GridCell.Tab.0.bottom/30.23.1410.877@30.23.1410.877" timestamp="1646652006665" />
+    <state width="1346" height="191" key="GridCell.Tab.0.bottom/34.23.1406.877@34.23.1406.877" timestamp="1646309619007" />
+    <state width="1368" height="164" key="GridCell.Tab.0.center" timestamp="1646720348066">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state width="1368" height="164" key="GridCell.Tab.0.center/29.23.1411.877@29.23.1411.877" timestamp="1646720348066" />
+    <state width="1368" height="193" key="GridCell.Tab.0.center/30.23.1410.877@30.23.1410.877" timestamp="1646652006664" />
+    <state width="1346" height="191" key="GridCell.Tab.0.center/34.23.1406.877@34.23.1406.877" timestamp="1646309619006" />
+    <state width="1368" height="164" key="GridCell.Tab.0.left" timestamp="1646720348065">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state width="1368" height="164" key="GridCell.Tab.0.left/29.23.1411.877@29.23.1411.877" timestamp="1646720348065" />
+    <state width="1368" height="193" key="GridCell.Tab.0.left/30.23.1410.877@30.23.1410.877" timestamp="1646652006664" />
+    <state width="1346" height="191" key="GridCell.Tab.0.left/34.23.1406.877@34.23.1406.877" timestamp="1646309619005" />
+    <state width="1368" height="164" key="GridCell.Tab.0.right" timestamp="1646720348066">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state width="1368" height="164" key="GridCell.Tab.0.right/29.23.1411.877@29.23.1411.877" timestamp="1646720348066" />
+    <state width="1368" height="193" key="GridCell.Tab.0.right/30.23.1410.877@30.23.1410.877" timestamp="1646652006664" />
+    <state width="1346" height="191" key="GridCell.Tab.0.right/34.23.1406.877@34.23.1406.877" timestamp="1646309619006" />
+    <state x="400" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1646629064269">
+      <screen x="30" y="23" width="1410" height="877" />
+    </state>
+    <state x="400" y="213" width="670" height="676" key="search.everywhere.popup/30.23.1410.877@30.23.1410.877" timestamp="1646629064269" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$ttt2.coverage" NAME="ttt2 Coverage Results" MODIFIED="1630412465829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$t1image.coverage" NAME="t1image Coverage Results" MODIFIED="1634304633619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statistic" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$jia_CSS_simi.coverage" NAME="jia_CSS_simi Coverage Results" MODIFIED="1635388395143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSS_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$t1imagezhan.coverage" NAME="t1imagezhan Coverage Results" MODIFIED="1634356649606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statistic" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$similarity_characters.coverage" NAME="jia_figure_simi Coverage Results" MODIFIED="1626498241910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/figure_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$annotationprocess12_duti.coverage" NAME="annotationprocess12_duti Coverage Results" MODIFIED="1635054395639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$buildrightpairs1.coverage" NAME="buildrightpairs1 Coverage Results" MODIFIED="1626702975527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$annotationprocess13.coverage" NAME="annotationprocess13 Coverage Results" MODIFIED="1631079580290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$train.coverage" NAME="train Coverage Results" MODIFIED="1635074862280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/figure_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$t1characterlive.coverage" NAME="t1characterlive Coverage Results" MODIFIED="1634366323573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statistic" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$ReadModel.coverage" NAME="ReadModel Coverage Results" MODIFIED="1626861368167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/figure_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$train1.coverage" NAME="train1 Coverage Results" MODIFIED="1635231466522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/figure_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$coverage_eva.coverage" NAME="coverage_eva Coverage Results" MODIFIED="1646720348058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$buildrightpairs2.coverage" NAME="buildrightpairs2 Coverage Results" MODIFIED="1626764592691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$createvecdata1.coverage" NAME="createvecdata1 Coverage Results" MODIFIED="1635235696860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/figure_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$resnet1.coverage" NAME="resnet1 Coverage Results" MODIFIED="1634987380273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/figure_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$mining.coverage" NAME="mining Coverage Results" MODIFIED="1632153133395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mining" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$jia_pic_simi.coverage" NAME="jia_pic_simi Coverage Results" MODIFIED="1646718073213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pic_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1634784843159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/figure_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$jia_radicalgraph_simi.coverage" NAME="jia_radicalgraph_simi Coverage Results" MODIFIED="1635341131967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/radicalgraph_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$annotationprocess12.coverage" NAME="correlation_eva Coverage Results" MODIFIED="1636210157710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$jia_RLCS_simi.coverage" NAME="jia_RLCS_simi Coverage Results" MODIFIED="1646708342683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RLCS_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$t1unintercharacterlive.coverage" NAME="t1unintercharacterlive Coverage Results" MODIFIED="1634369134809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statistic" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$annotationprocess.coverage" NAME="coverage_eva Coverage Results" MODIFIED="1636211631713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$jia_c_mix_simi.coverage" NAME="jia_c_mix_simi Coverage Results" MODIFIED="1646718960566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mix_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$r_jiajin4_similarity.coverage" NAME="jia_mix_simi Coverage Results" MODIFIED="1626696822603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mix_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$r_jiajin4_similarity__1_.coverage" NAME="r_jiajin4_similarity (1) Coverage Results" MODIFIED="1626433981701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mix_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$buildrightpairs.coverage" NAME="buildrightpairs Coverage Results" MODIFIED="1626706647875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$dataprocess.coverage" NAME="dataprocess Coverage Results" MODIFIED="1634711382592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/figure_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1630379484878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$annotationprocess1.coverage" NAME="annotationprocess1 Coverage Results" MODIFIED="1635239349902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$Exceple_jia_CSS_radicalgraph_simi.coverage" NAME="Exceple_jia_CSS_radicalgraph_simi Coverage Results" MODIFIED="1626666536129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mix_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$t1component.coverage" NAME="t1component Coverage Results" MODIFIED="1634300259414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statistic" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$ttt1.coverage" NAME="ttt1 Coverage Results" MODIFIED="1630391226070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$get_corpus.coverage" NAME="get_corpus Coverage Results" MODIFIED="1633001019557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train_bert/code/prepare_data" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$jia_figure_simi2.coverage" NAME="jia_figure_simi2 Coverage Results" MODIFIED="1626491501902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/figure_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1634282422498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/statistic" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$jia_figure_simi.coverage" NAME="jia_figure_simi Coverage Results" MODIFIED="1635655696640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/figure_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$mining1.coverage" NAME="mining1 Coverage Results" MODIFIED="1635661670720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mining" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$r_jiajin4_dicsimilarity.coverage" NAME="jia_dic_simi Coverage Results" MODIFIED="1626436608420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$correlation_eva1.coverage" NAME="correlation_eva Coverage Results" MODIFIED="1646656350388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$jia_mix_simi.coverage" NAME="jia_mix_simi Coverage Results" MODIFIED="1635000678567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mix_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$annotationprocess11.coverage" NAME="annotationprocess11 Coverage Results" MODIFIED="1632883626680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$ReadModel1.coverage" NAME="ReadModel1 Coverage Results" MODIFIED="1635234826200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/figure_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$buildrightpairs3.coverage" NAME="buildrightpairs3 Coverage Results" MODIFIED="1626763922884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$v.coverage" NAME="v Coverage Results" MODIFIED="1636208757853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$jia_graph_simi.coverage" NAME="jia_graph_simi Coverage Results" MODIFIED="1646709518700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph_simi" />
+    <SUITE FILE_PATH="coverage/ancientCharacterSimi$correlation_eva.coverage" NAME="correlation_eva Coverage Results" MODIFIED="1646720332255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+  </component>
+</project>
